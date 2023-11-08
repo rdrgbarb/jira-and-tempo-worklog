@@ -1,0 +1,8 @@
+/node_modules/
+/reports/
+/src/index.js
+/src/config.js
+*.csv
+*.env
+*.log
+known-attributes.json
