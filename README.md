@@ -1,4 +1,4 @@
-# jira-worklog
+# jira-and-tempo-worklog
 
 ## Setup:
 
